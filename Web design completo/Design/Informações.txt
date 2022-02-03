@@ -1,0 +1,15 @@
+## Estilo
+
+Geometrico nas formas, organico na tipografia
+
+## Tipografia
+
+Arial (Geométrica)
+
+Georgia (Organica)
+
+## Cores
+
+#000000
+
+#fec63e

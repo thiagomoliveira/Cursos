@@ -1,0 +1,19 @@
+## Cores
+
+ #d9e0e6 (claro)
+
+ #a9aeb3 (médio)
+
+ #484b4d (escuro)
+
+## Tipografia (fonte/altura de linha)
+
+-14/20 (corpo do texto)
+
+-18/25 (corpo do texto)
+
+-24/30 (subtítulo/Título)
+
+-36/40 (título)
+
+-48/60 (título)

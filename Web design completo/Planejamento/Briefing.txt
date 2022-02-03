@@ -1,0 +1,6 @@
+## IMPORTANTE
+
+- Sempre que iniciar um projeto é muito importante ter um briefing bem definido com o cliente 
+- Salvar o briefing na pasta do planejamento por questão de organização
+- Salvar com nome da seguinte maneira nomedoproj_briefing.pdf
+- Tem um modelo pronto de briefing no Origamid
