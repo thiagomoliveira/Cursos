@@ -1,0 +1,15 @@
+Comunicando computadores
+
+Protocolos > "Regras"
+
+TCP > "Eu estou enviando tal pacote, você recebeu esse pacote?"
+UDP > não se importa se o cliente recebeu o pacote
+FTP > Envio de arquivos, imagens, etc
+socket > trabalha com os pacotes e protocolos implementados para podermos nos comunicar com outros sistemas
+
+A aplicação servidora irá abrir uma porta dentro do meu computador e os clientes poder acessar aplicação através da porta. 
+
+Na rede o computador é identificado pelo ID ou codnome (URL, hostname). 
+
+Porta de entrada no meu computador >> 0 até 65535(máximo de comunicação com outros clientes)
+

@@ -1,0 +1,7 @@
+- Revisar todo código (organização) > ok
+- Menu Hamburguer c/ flexbox e js
+- certificado com seta (papodedev)
+- aumentar o tamanho das imagens quando passar o mouse
+- Favicon
+- introdução na página inicial
+- juntar css em um "único arquivo" antes de subir

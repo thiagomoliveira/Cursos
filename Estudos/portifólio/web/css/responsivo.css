@@ -1,0 +1,169 @@
+@media only screen and (min-width: 788px) and (max-width: 979px) {
+  p {
+    font-size: 1em;
+    line-height: 1.4em;
+  }
+
+  /*header*/
+
+  header a img {
+    width: 35px;
+  }
+  header span {
+    margin-left: 5px;
+    font-size: 1em;
+  }
+
+  header ul li {
+    font-size: 1em;
+    margin-left: 20px;
+  }
+
+  /* introdução */
+  .introducao {
+    padding: 63px;
+  }
+  h1 {
+    font-size: 2, 625em;
+  }
+
+  /* portifólio*/
+  .portifolio {
+    background-color: #000;
+    padding-bottom: 117px;
+  }
+
+  .portifolio .btn {
+    position: absolute;
+    bottom: -77px;
+    right: 311px;
+  }
+
+  /* habilidades */
+
+  .h4-estrelas {
+    padding: 10px 15px;
+  }
+
+  .h4-estrelas img {
+    margin-right: 11.9px;
+    height: 30%;
+  }
+
+  /* quote */
+
+  .quote {
+    padding: 52px;
+  }
+
+  /*footer*/
+  .redes-sociais svg {
+    width: 69px;
+  }
+}
+
+@media only screen and (max-width: 787px) {
+  p {
+    font-size: 1em;
+    line-height: 1.4em;
+  }
+  /*introdução*/
+
+  .introducao {
+    padding: 55px 20px;
+  }
+  h1 {
+    font-size: 2.25em;
+    display: inline;
+  }
+
+  /* certificados */
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  h2::after {
+    margin: 10px auto 20px auto;
+  }
+
+  .certificados p {
+    margin: 20px auto 5px auto;
+  }
+
+  /*footer*/
+  .redes-sociais svg {
+    float: left;
+    margin: 10px 20px 0 0;
+  }
+  .feito-por p {
+    margin: 0;
+  }
+  /* contato intro */
+
+  header ul {
+    display: none;
+  }
+  header ul li {
+    display: block;
+    margin: 10px auto;
+  }
+  .introducao-contato {
+    padding-top: 40px;
+  }
+
+  .dados svg {
+    margin-right: 15px;
+    width: 75px;
+  }
+
+  /* certificados*/
+  .introducao-certificados {
+    padding-top: 40px;
+  }
+  /*sobre*/
+  .introducao-paginas {
+    padding-top: 35px;
+  }
+
+  .sobre h2:after {
+    margin-left: 0;
+  }
+
+  .habilidades h2::after {
+    margin: 10px auto 20px auto;
+  }
+
+  .h4-estrelas {
+    margin-bottom: 20px;
+  }
+
+  /*Menu*/
+
+  header-menu {
+    display: none;
+  }
+
+  /* TESTEEE
+  .topnav a:not(:first-child) {
+    display: none;
+  }
+  .icon {
+    float: right;
+    display: block;
+  }
+  .topnav.responsive {
+    position: relative;
+  }
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  */
+}

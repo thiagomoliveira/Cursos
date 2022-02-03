@@ -1,0 +1,28 @@
+Medidas de dispersão ou variação
+
+Amplitude: diferença entre as entradas máximas e mínimas.
+
+Desvio populacional: diferença entre o valor e a média do conjunto de dados populacional. Ex:
+Se a média for 41,5, e o valor 41, o desvio é -0,5.
+
+Variância populacional: é a somatória de cada desvio elevado ao quadrado, dividido pelo número total de dados.
+
+Desvio padrão populacional: Raíz quadrada da variância.
+
+Variância amostral: divido a somatória de cada desvio elevado ao quadrado, pelo numero de elementos, menos 1.
+
+Desvio padrão amostral: raíz quadrada da variância amostral.
+
+Desvio padrão é a "faixa de erro".
+
+Medidas de posição
+
+Fractis: Divisão do CONJUNTO DE DADOS em partes iguais (quartis, percentis, Mediana...)
+
+Quartis: Divide o conjunto em 4 partes iguais.
+*** Gráfico BoxPlot ou Caixa e Bigodes
+
+Amplitude interquartil(IQR):
+IQR = Q3 - Q1 <- diferença de valores do quartil 3 e do quartil 1.
+
+ 

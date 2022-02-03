@@ -1,0 +1,28 @@
+### Classificação das variáveis ###
+
+* Qualitativas: atributos não numéricos
+	- Nominais: Denominações(cores, gênero, raça, títulos...)
+	- Ordinais: Atributos que podem ser classificados (classificação de filmes mais assistidos, grau de escolaridade, nível de satisfação...)
+
+* Quantitativas: medidas numéricas ou de contagem
+	- Discretas: valores finitos ou enumeráveis (número de pessoas numa sala, número de carros em um estacionamento...)
+	- Contínuas: infinitos valores possiveis num intervalo (renda, tempo, altura...)
+
+### Gráficos ###
+
+- A principal distribuição de probabilidade contínua é a DISTRIBUIÇÃO NORMAL. O gráfico é chamado de curva normal, é simétrico e tem formato de sino.
+- A media indica a posição e o desvio padrão o formato do gráfico.
+- Quanto menor o desvio padrão, com uma mesma média, mais estreito e maior ele se torna.
+
+A distribuição discreta pode ser aproximada por uma distruibuição normal
+
+
+
+
+
+
+
+	
+
+
+

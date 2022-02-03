@@ -1,0 +1,24 @@
+### Regressão linear
+
+Modelo matemático linear capaz de realizar previsões
+
+y = m.x + b
+
+### Correlação linear
+Determinado através de gráficos de dispersão e do coeficiente de correlação.
+
+### Coeficiente de correlação linear (coeficiente de Pearson)
+- forma mais precisa de medir a correlação entre duas grandezas.
+- Existem tabelas de classificação mostrando quais valores (após o cálculo de correlação) mostram uma correlação fraca, forte, etc.
+
+### Coeficiente de determinação
+
+Avalia a qualidade do ajuste do modelo, indicando quanto o modelo foi capaz de explicar os dados envolvidos.
+
+### Regração linear múltipla
+
+Quando possui mais de uma variável independente.
+
+
+
+

@@ -1,0 +1,31 @@
+Medidas de centralidade: Teoria
+
+* Média: soma de entrada de dados dividido pelo número de entradas.
+Exemplos: - Populaciona
+	   - Amostral
+
+* Mediana: quando os dados são ordenados(crescente ou decrescente), a mediana é o valor que está no centro dos dados. Caso tenham dois valores centrais, calcula-se a média entre eles.
+
+* Moda : é o valor que aparece com mais frequencia no conjunto de dados.
+Exemplos: - Amodal: quando não tem repetição de entradas.
+	  - Bimodal: Duas modas.
+	  - Trimodal: Três modas.
+
+Determine a média, a moda e a mediana dos dados amostrais a seguir:
+
+A = {10, 23, 32, 40, 57, 57)
+
+Média = 36,5
+
+Mediana = (32 + 40) / 2 = 36
+
+Moda = 57 - Amodal
+
+Obs: Não confie apenas na média, pois ela pode ser influenciada por valores que estão "fora da curva".
+
+* Formas de distribuição
+
+- Simétrica (média, mediana e moda na mesma faixa)
+- Uniforme (Não tem variação)
+- Assimétrica à esquerda 
+- Assimétrica à direita

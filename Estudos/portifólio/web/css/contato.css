@@ -1,0 +1,212 @@
+@font-face {
+  font-family: "nunito";
+  src: url("../Nunito/Nunito-Regular.ttf");
+}
+
+@font-face {
+  font-family: "nunito";
+  src: url("../Nunito/Nunito-Italic.ttf");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "nunito";
+  src: url("../Nunito/Nunito-Bold.ttf");
+  font-weight: 700;
+}
+
+body {
+  font-family: "nunito";
+}
+
+p {
+  font-size: 1.125em;
+  line-height: 1.6em;
+}
+
+.btn {
+  border: 4px solid #b82601;
+  padding: 7px 14px;
+  color: #b82601;
+  text-decoration: none;
+  font-size: 1.125em;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  width: 190px;
+  display: block;
+  text-align: center;
+  cursor: pointer;
+  background: none;
+}
+
+.btn:hover {
+  color: #000;
+  border-color: #000;
+  background: none;
+}
+
+/* header */
+
+header {
+  width: 100%;
+  background-color: #000;
+  height: 70px;
+  padding: 15px 0 15px 0;
+}
+
+.logo-ancora {
+  text-decoration: none;
+}
+
+header span {
+  color: #fff;
+  margin-left: 10px;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  font-size: 1.125em;
+  text-transform: uppercase;
+  position: relative;
+  bottom: 10px;
+}
+
+.menu a img {
+  float: left;
+}
+
+.header-menu {
+  float: right;
+}
+
+.header-menu ul {
+  float: right;
+  margin-top: 1.6em;
+  position: relative;
+  bottom: 10px;
+}
+
+.header-menu ul li {
+  display: inline;
+  font-size: 1.125em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: #fff;
+  text-transform: uppercase;
+  margin-left: 20px;
+}
+
+.header-menu ul a {
+  text-decoration: none;
+}
+
+.header-menu ul li:hover {
+  color: #b82601;
+}
+/* Introdução */
+
+.introducao-contato {
+  width: 100%;
+  background: url("../img/bg-contato.jpg");
+  text-align: center;
+  height: 160px;
+  padding: 30px;
+  background-size: cover;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0 auto;
+}
+
+.introducao-contato p::before {
+  content: " ";
+  display: block;
+  width: 80px;
+  height: 4px;
+  background: #000;
+  margin: 10px auto;
+}
+
+/*formulário*/
+
+.formulario {
+  padding: 40px 0;
+}
+
+label {
+  font-size: 1.125em;
+  margin-bottom: 5px;
+  display: block;
+}
+
+input,
+textarea {
+  display: block;
+  margin: 0 0 20px 0;
+  border: 4px solid #b82601;
+  width: 90%;
+  height: 40px;
+}
+
+textarea {
+  height: 120px;
+}
+
+/* Dados */
+
+.dados h3 {
+  color: #b82601;
+  margin-bottom: 5px;
+}
+.dados span {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.dados span:nth-of-type(3) {
+  margin: 40px 0 20px 0;
+}
+
+.dados svg {
+  fill: #b82601;
+  margin-right: 20px;
+}
+.dados svg:hover {
+  fill: #000;
+}
+.dados a {
+  text-decoration: none;
+}
+
+/* Footer */
+
+h3 {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 0.625em;
+}
+
+.footer {
+  background: #000;
+}
+
+.feito-por {
+  width: 100%;
+  padding: 18px 0;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.feito-por p {
+  margin: 0 10px;
+}
+.nao-aparece {
+  visibility: hidden;
+  position: absolute;
+  height: 0px;
+}

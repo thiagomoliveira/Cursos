@@ -1,0 +1,45 @@
+#### Site/portifólio
+
+- Home
+  - Header
+  - Seja bem vindo ao meu cantinho
+  - portifólio 
+  - sobre
+  - rodapé com "enfeites"
+
+- Sobre
+  - Resumo profissional
+  - Quando comecei a estudar TI
+  - Características: Boa comunicação, ótimo raciocínio lógico, facilidade em trabalhar em equipe, perfil analítico e autodidata;
+
+- Portifólio
+  - instagram página
+  - origamid
+
+- Contatos
+  - Email
+  - Telefone
+  - whats
+  - linkedin
+  - instagram
+
+
+
+Setor que quero atuar: desenvolvedor Front-end
+
+cores: #000, #B82601, #fff
+
+fontes: 
+
+h1 - nunito_semi_bold - 700 - s:48px lh:60px
+
+h2 - nunito_bold, sans-serif; - 700 - 42px/ 45px
+
+h3 - nunito_bold, sans-serif; - 700 - 18px lh: 30px
+
+p - nunito_sansregular - 400 - 16px/26px
+
+
+
+
+
