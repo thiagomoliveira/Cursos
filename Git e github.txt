@@ -1,0 +1,10 @@
+git clone (link do repositório)
+
+Depois de colar os arquivos no diretório desejado, eu volto para o prompt de comando e digito:
+
+git add .
+
+git commit -m "mensagem"
+
+git push << - para subir arquivo
+
