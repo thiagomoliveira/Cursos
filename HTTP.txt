@@ -1,0 +1,77 @@
+No terminal:
+nslookup google.com 
+
+Porta padrão HTTP
+
+Sessão: É usada para mantermos um usuário logado no nosso sistema ou guardar informações...
+
+As plataformas de desenvolvimento usam sessões para guardar informações entre requisições
+
+HTTP(Request - Response)
+- Uma requisição SEMPRE precisa ter todas informações para o servidor gerar a resposta(STATELESS).
+
+Status code
+
+2xx - Sucessful responses 
+3xx - Redirection messages 
+4xx - Client error responses
+5xx - Server error responses
+
+Parâmetros de requisição
+
+recurso?parametro >> 
+
+ex: 
+
+?search_query
+?peso
+
+https://www.youtube.com/results?search_query=ukelele
+http://calculadordeimc.com.br/?peso=44&altura=1.50 (& separa parâmetros)
+
+O método POST deixa os parâmetros no corpo da requisição, assim evita que informações importantes, como a senha, fiquem explícitas na URL, ao contrário do GET.
+
+
+DELETE - Remover recurso
+PUT - Atualizar um recurso
+
+Serviços REST
+Formatos mais comuns: JSON e XML são os mais usados...
+
+GET - https...
+
+Accept: text/html
+Accept: text/css
+Accept: application/xml
+Accept: application/json
+Accept:image/jpeg 
+Accept: image/*
+Accept: */*(nenhum formato específico)
+
+Tipos conhecidos:text, image, application, audio e video
+
+Subtipos:text/plain, text/html, text/css, text/javascript
+
+image -> image/gif, image/png, image/jpeg
+
+Áudio -> audio/midi, audio/mpeg, audio/webm, audio/ogg, audio/wav
+
+video -> video/mp4
+
+application -> application/xml,  application/pdf
+
+Posso trabalhar com a mesma URI, mas com métodos diferentes...
+
+REST é um padrão arquitetural para comunicação entre aplicações.
+
+Arquitetura REST - Une URI(recurso), operações(GET, POST, ect) e representação(JSON, XML, HTML, etc)
+
+REST - Representational State Transfer
+
+Header Stateful - cabeçalhos são guardados para próxima requisição
+
+Server push - o server envia dados necessários sem eu ter pedido
+
+Conexão TCP: no HTTP1, existe o "keep alive" para manter as conexões ativas e elas podem ser feitas paralelamente a partir do HTTP2 (Multiplexing)
+
+
